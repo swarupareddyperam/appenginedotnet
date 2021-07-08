@@ -1,0 +1,17 @@
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/appsettings.json
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/HelloWorld.deps.json
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/HelloWorld.dll
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/bin/Release/netcoreapp2.1/HelloWorld.pdb
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cache
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cs
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.RazorTargetAssemblyInfo.cache
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.dll
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.pdb
+/home/saad_patel/dotnet-docs-samples/appengine/flexible/HelloWorld/obj/Release/netcoreapp2.1/HelloWorld.genruntimeconfig.cache
